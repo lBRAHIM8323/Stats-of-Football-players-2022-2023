@@ -7,7 +7,7 @@ This project is all about the analysis of players in the season 2022-2023. As th
 ### 1) Kaggle
 #### Kaggle was used to download the premade dataset. 
 ### 2) Jupyter Notebook:-
-#### Python Jupyter Notebook was used to code and make an analysis.
+#### Python's Jupyter Notebook was used to code and make an analysis.
 ##### In Jupyter Notebook, Python Modules like Numpy, Pandas, Matplotlib, collections, operator.
 ### 3) Excel.
 #### Credits:- 
