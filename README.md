@@ -1,7 +1,7 @@
 # Stats-of-Football-players-2022-2023
 
 ## About this project:-
-![pic](https://user-images.githubusercontent.com/98260570/202894533-8c167f4b-c85b-49f7-a761-f60caea4a2a3.jpg)
+![pic](https://user-images.githubusercontent.com/98260570/202894625-f022cdce-5be6-427f-9881-75d650e57da5.png)
 
 This project is all about the analysis of players in the season 2022-2023. As the World Cup is starting on 20th Nov I've made an analysis of the top players in every field in all the 5 big European leagues.
 
