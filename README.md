@@ -7,9 +7,9 @@ This project is all about the analysis of players in the season 2022-2023. As th
 ![5 leagues](https://user-images.githubusercontent.com/98260570/202894575-98e85084-b1eb-410a-9688-26ef8b0028be.jpg)
 
 ## Technoligies used:-
-### 1) Kaggle
+### 1) Kaggle.
 #### Kaggle was used to download the premade dataset. 
-### 2) Jupyter Notebook:-
+### 2) Jupyter Notebook.
 #### Python's Jupyter Notebook was used to code and make an analysis.
 ##### In Jupyter Notebook, Python Modules like Numpy, Pandas, Matplotlib, collections, operator.
 ### 3) Excel.
