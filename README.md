@@ -15,3 +15,5 @@ This project is all about the analysis of players in the season 2022-2023. As th
 ### 3) Excel.
 #### Credits:- 
 ##### The dataset https://www.kaggle.com/datasets/vivovinco/20222023-football-player-stats was uploaded by https://www.kaggle.com/vivovinco
+
+## Thanks for Reading!
